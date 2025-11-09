@@ -1,0 +1,9 @@
+{
+	"name": "ashspotifydf",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b15211af-493d-4983-a422-0a1cf6bcec0a",
+		"tenantId": "0799c53e-ca9a-49e8-8901-064a6412a41d"
+	}
+}
