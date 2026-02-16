@@ -61,6 +61,7 @@ Apache Spark
 SQL
 
 🔄 Data Pipeline Workflow
+
 1️⃣ Data Ingestion (Bronze Layer)
 
 Extracted Spotify track and metadata using REST API
