@@ -131,15 +131,6 @@ Null handling and standardization
 
 Data transformation checks for consistency
 
-📂 Repository Structure
-azure-spotify-project/
-│
-├── notebooks/
-├── scripts/
-├── sql/
-├── architecture-diagram.png
-├── requirements.txt
-└── README.md
 
 🚀 Future Improvements
 
